@@ -1,0 +1,12 @@
+{
+    "name": "julien_beauhaire1/les_vues_avec_twig",
+    "authors": [
+        {
+            "name": "DocteurXXX",
+            "email": "juliano070177@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
